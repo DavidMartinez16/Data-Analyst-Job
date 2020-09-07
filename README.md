@@ -4,7 +4,7 @@ _This is a data science project that uses the Data Analyst Job dataset, the obje
 
 * [Dataset](https://www.kaggle.com/andrewmvd/data-analyst-jobs) - The used dataset was downloaded from the kaggle repository. The data contains more than 2000 job listing for data analyst position in United States.
 * Created a tool that estimates data analyst salaries with a MSE of $14 K in USA by analyzing different features.
-* Some Engineered features from the Job Description were extracted, such as amount of Python, Excel and aws that companies put on to see how valuable they were. In adition, applying a word clouds the most common words were extracted in the job description field.
+* Some Engineered features from the Job Description were extracted, such as amount of Python, Excel and aws that companies put on to see how valuable they were. In addition, applying a word clouds the most common words were extracted in the job description field.
 * The Grid Search function was used to optimized the models, such as Linear Regression, Random Forest, K-Nearest Neighbors and Bagging Regression.
 
 ## Resources Used 🛠️
