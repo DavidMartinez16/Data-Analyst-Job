@@ -52,7 +52,7 @@ Bar Plot to show the top 10 most common Professions related with Data Analyst.
 Words Cloud with the most common words in the Job Description
 ![Anotación 2020-09-05 183135](https://user-images.githubusercontent.com/63115543/92315045-0bcfd180-efa6-11ea-9a6b-9eeec8a2a6ec.jpg)
 
-Number of companys in different Age Groups
+Number of companies in different Age Groups
 ![age](https://user-images.githubusercontent.com/63115543/92315061-48033200-efa6-11ea-81dd-c69dea8abb99.jpg)
 
 ## Model Building and Tunning
