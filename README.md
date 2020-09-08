@@ -10,7 +10,7 @@ _This is a data science project that uses the Data Analyst Job dataset, the obje
 ## Resources Used 🛠️
 * **Python Version:** 3.7
 * **Packages:** Pandas, Numpy, Matplotlib, Seaborn and Sklearn
-* **Scrapper Github:** https://github.com/PlayingNumbers/ds_salary_proj
+* **Scraper Github:** https://github.com/PlayingNumbers/ds_salary_proj
 * **Programs:** Spyder and Jupyter Notebook
 
 ## Dataset Features 📦
