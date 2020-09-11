@@ -1,6 +1,6 @@
 # Data Science Project: Data Analyst Salary Predictor
 
-_This is a data science project that uses the Data Analyst Job dataset, the objective is to predict the average salary by analyzing come characteristics of the company such as sector, industry, number of employees, state, location, size of the company, age of the company,among others._
+_This is a data science project that uses the Data Analyst Job dataset, the objective is to predict the average salary by analyzing some characteristics of the company such as sector, industry, number of employees, state, location, size of the company, age of the company,among others._
 
 * [Dataset](https://www.kaggle.com/andrewmvd/data-analyst-jobs) - The used dataset was downloaded from the kaggle repository. The data contains more than 2000 job listing for data analyst position in United States.
 * Created a tool that estimates data analyst salaries with a MSE of $14 K in USA by analyzing different features.
